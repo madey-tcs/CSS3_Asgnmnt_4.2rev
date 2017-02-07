@@ -1,0 +1,13 @@
+.marginindiv{
+	width: 200px;
+	height: 100px;
+	background-color: #00CED1;
+	text-align: left;
+	margin: 25px;
+	border: 20px blue solid;
+	padding: 10px;
+
+}
+p{
+	margin: -2px;
+}
